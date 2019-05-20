@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\MedalDemo\bin\Debug\MedalDemo.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\MedalDemo\bin\Debug\MedalDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\MedalDemo\bin\Debug\MedalDemo.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\MedalDemo\obj\Debug\MedalDemo.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\MedalDemo\obj\Debug\MedalDemo.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\MedalDemo\obj\Debug\MedalDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\MedalDemo\obj\Debug\MedalDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\PetDemo\bin\Debug\PetDemo.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\PetDemo\bin\Debug\PetDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\PetDemo\bin\Debug\PetDemo.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\PetDemo\obj\Debug\PetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\PetDemo\obj\Debug\PetDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\PetDemo\obj\Debug\PetDemo.pdb

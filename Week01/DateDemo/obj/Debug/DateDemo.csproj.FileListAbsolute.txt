@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\DateDemo\bin\Debug\DateDemo.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\DateDemo\bin\Debug\DateDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\DateDemo\bin\Debug\DateDemo.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\DateDemo\obj\Debug\DateDemo.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\DateDemo\obj\Debug\DateDemo.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\DateDemo\obj\Debug\DateDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\DateDemo\obj\Debug\DateDemo.pdb

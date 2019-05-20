@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Assignment 1\Rationale\bin\Debug\Rationale.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Assignment 1\Rationale\bin\Debug\Rationale.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Assignment 1\Rationale\bin\Debug\Rationale.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Assignment 1\Rationale\obj\Debug\Rationale.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Assignment 1\Rationale\obj\Debug\Rationale.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Assignment 1\Rationale\obj\Debug\Rationale.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Assignment 1\Rationale\obj\Debug\Rationale.pdb

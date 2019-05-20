@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\IODemo\bin\Debug\IODemo.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\IODemo\bin\Debug\IODemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\IODemo\bin\Debug\IODemo.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\IODemo\obj\Debug\IODemo.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\IODemo\obj\Debug\IODemo.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\IODemo\obj\Debug\IODemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week02\IODemo\obj\Debug\IODemo.pdb

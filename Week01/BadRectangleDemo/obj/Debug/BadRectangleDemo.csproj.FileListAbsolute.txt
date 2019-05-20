@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.pdb
