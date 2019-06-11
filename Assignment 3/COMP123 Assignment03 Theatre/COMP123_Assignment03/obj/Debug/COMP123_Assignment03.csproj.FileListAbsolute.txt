@@ -1,0 +1,7 @@
+C:\Users\HoangTran\source\repos\COMP123_Assignment03\COMP123_Assignment03\bin\Debug\COMP123_Assignment03.exe.config
+C:\Users\HoangTran\source\repos\COMP123_Assignment03\COMP123_Assignment03\bin\Debug\COMP123_Assignment03.exe
+C:\Users\HoangTran\source\repos\COMP123_Assignment03\COMP123_Assignment03\bin\Debug\COMP123_Assignment03.pdb
+C:\Users\HoangTran\source\repos\COMP123_Assignment03\COMP123_Assignment03\obj\Debug\COMP123_Assignment03.csprojAssemblyReference.cache
+C:\Users\HoangTran\source\repos\COMP123_Assignment03\COMP123_Assignment03\obj\Debug\COMP123_Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\HoangTran\source\repos\COMP123_Assignment03\COMP123_Assignment03\obj\Debug\COMP123_Assignment03.exe
+C:\Users\HoangTran\source\repos\COMP123_Assignment03\COMP123_Assignment03\obj\Debug\COMP123_Assignment03.pdb
