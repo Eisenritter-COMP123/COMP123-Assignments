@@ -1,0 +1,6 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week05\InheritanceFastfoodDemo\obj\Debug\InheritanceFastfoodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week05\InheritanceFastfoodDemo\bin\Debug\InheritanceFastfoodDemo.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week05\InheritanceFastfoodDemo\bin\Debug\InheritanceFastfoodDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week05\InheritanceFastfoodDemo\bin\Debug\InheritanceFastfoodDemo.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week05\InheritanceFastfoodDemo\obj\Debug\InheritanceFastfoodDemo.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP123 Programming II\Week05\InheritanceFastfoodDemo\obj\Debug\InheritanceFastfoodDemo.pdb

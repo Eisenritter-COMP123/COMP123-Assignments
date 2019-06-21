@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week05", "Week05\Week05.csproj", "{7E24AF62-C47F-408C-8DA8-0DAC2BF82994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceFastfoodDemo", "InheritanceFastfoodDemo\InheritanceFastfoodDemo.csproj", "{97CC596F-FAE8-4623-B746-73E1B398996B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E24AF62-C47F-408C-8DA8-0DAC2BF82994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E24AF62-C47F-408C-8DA8-0DAC2BF82994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E24AF62-C47F-408C-8DA8-0DAC2BF82994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E24AF62-C47F-408C-8DA8-0DAC2BF82994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CC596F-FAE8-4623-B746-73E1B398996B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CC596F-FAE8-4623-B746-73E1B398996B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CC596F-FAE8-4623-B746-73E1B398996B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CC596F-FAE8-4623-B746-73E1B398996B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC3B04A-A76E-476D-8676-3B7D80435992}
+	EndGlobalSection
+EndGlobal
